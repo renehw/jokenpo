@@ -57,9 +57,9 @@
   </h2>
   </p>
   <p align="center">
-    <img src="https://github.com/renehw/jokenpo/blob/main/folders/img1.png" width="700" style="max-width:100%;">
-    <img src="https://github.com/renehw/jokenpo/blob/main/folders/img2.png" width="700" style="max-width:100%;"><br>
-    <img src="https://github.com/renehw/jokenpo/blob/main/folders/img3.png" width="700" style="max-width:100%;"><br>
-    <img src="https://github.com/renehw/jokenpo/blob/main/folders/img4.png" width="700" style="max-width:100%;"><br>
+    <img src="https://github.com/renehw/jokenpo/blob/main/folders/img1.png" width="400" style="max-width:100%;">
+    <img src="https://github.com/renehw/jokenpo/blob/main/folders/img2.png" width="400" style="max-width:100%;"><br>
+    <img src="https://github.com/renehw/jokenpo/blob/main/folders/img3.png" width="400" style="max-width:100%;">
+    <img src="https://github.com/renehw/jokenpo/blob/main/folders/img4.png" width="400" style="max-width:100%;"><br>
   </p>
   <h3>DESENVOLVIDO POR RENE HENRIQUE</h3>
